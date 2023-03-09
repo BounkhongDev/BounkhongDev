@@ -32,7 +32,7 @@ I'm a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, i like to listening music and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bounkhong-chuangthevy-194aa117a/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BKDev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bounkhong-chuangthevy-194aa117a/)
 
 ---
 
