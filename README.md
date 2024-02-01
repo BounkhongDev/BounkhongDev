@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e" width="200"/>
+  <img src="https://cameronmcefee.com/img/work/the-octocat/codercat.jpg" width="200"/>
   <div id="badges">
   <a href="https://www.facebook.com/BounkhongDev">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
