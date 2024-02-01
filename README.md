@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgithub-logo%2F&psig=AOvVaw1FdOeCPmkVgx1urt7GDYyi&ust=1706865354061000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC2govniYQDFQAAAAAdAAAAABAE" width="200"/>
+  <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width="200"/>
   <div id="badges">
   <a href="https://www.facebook.com/BounkhongDev">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
